@@ -2,7 +2,7 @@ package Open_Close.methods;
 
 import Open_Close.OtpSender;
 
-public class VoiceCallOTP implements OtpSender{
+public class VoiceCallOtp implements OtpSender{
 
     @Override
     public void sendOtp(String otp, String method) {

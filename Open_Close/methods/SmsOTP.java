@@ -2,7 +2,7 @@ package Open_Close.methods;
 
 import Open_Close.OtpSender;
 
-public class SmsOTP implements OtpSender  {
+public class SmsOtp implements OtpSender  {
 
     @Override
     public void sendOtp(String otp, String method) {

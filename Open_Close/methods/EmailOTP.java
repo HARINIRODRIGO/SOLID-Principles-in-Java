@@ -2,7 +2,7 @@ package Open_Close.methods;
 
 import Open_Close.OtpSender;
 
-public class EmailOTP implements OtpSender
+public class EmailOtp implements OtpSender
  {
 
     @Override
